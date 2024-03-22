@@ -10,11 +10,11 @@
 
 <p> ‎</p>
 <h2>📥 Download APK</h2>
-Untuk yang mau langsung download apk, bisa cek di tab <a href="https://github.com/NevanAPH/ZenCalc">releases</a>.
+Untuk yang mau langsung download apk, bisa cek di tab <a href="https://github.com/NevanAPH/ZenCalc/releases">releases</a>.
 
 <p> ‎</p>
 <h2>⚠️ Jangan Asal Copy! ⚠️</h2>
-Kebiasaan yang dateng, tinggal comot. Minimal baca <a href="https://github.com/NevanAPH/ZenCalc/blob/main/LICENSE">LICENSE</a> nya lah.
+Kebiasaan yang dateng, tinggal comot. Minimal baca <a href="https://github.com/NevanAPH/ZenCalc/blob/master/LICENSE">LICENSE</a> nya lah.
 
 <p> ‎</p>
 <h3>Note: ini cuma tugas biasa 😊</h3>
